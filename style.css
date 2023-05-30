@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(209, 227, 250);
+    text-transform: capitalize;
+}
+
+.container{
+    margin: auto;
+    width: 960px;
+    height: 650px;
+    padding: 5px;
+    
+}
+
+.logo{
+    width: 100%;
+    float: left;
+    color: #072157;
+    
+}
+.left{
+    float: left;
+    width: 65%;
+    height: 57%;
+    border-radius: 24px;
+    background: rgb(248, 251, 255);
+    
+    
+}
+.right{
+    float: right;
+    width: 28%;
+    height: 55%;
+    border-radius: 24px;
+    background: #fff;
+    margin-left: 5%;
+    padding: 1%;
+}
+.button{
+    float: left;
+    width: 70%;
+    height: auto;
+    border-radius: 24px;
+    color: #072157;
+    margin-left: 2%;
+}
+
+.logoimg{
+    margin-top: 1%;
+    margin-left: 5%;
+    float: inherit;
+}
+
+.tittle{
+    float: inherit;
+    margin-left: 20%;
+    color: #152a58;
+}
+.text-input{
+    float: left;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 80%;
+    height: 80%;
+    font-size: 20px;
+    border: none;
+    background: rgb(248, 251, 255);
+    outline: none;
+    color: #072157;
+ 
+}
+
+#img-right{
+    margin-top: 10%;
+    width: 90%;
+    height: auto;
+    margin-left:5%;
+}
+#text-right{
+    margin-left: 10%;
+    color: #072157;
+}
+
+#text2-right{
+    float: left;
+    margin-top: 10%;
+    margin-left: 10%;
+    width: 80%;
+    height: 80%;
+    border: none;
+    font-size: 20px;   
+    outline: none;
+    display: none;
+    color: #072157;
+}
+
+#btn-encriptador{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 10%;
+    background:#132447 ;
+    color: #fff;
+    border: none;
+
+}
+#btn-desencriptador{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 10%;
+    border: none;
+    color: #072157;
+
+}
+
+#copy{
+    margin-left: 35%;
+    margin-top: 95%;
+    padding: 20px;
+    width: 30%;
+    height: 5%;
+    border-radius: 24%;
+    display: none;
+    background:#132447 ;
+    color: #fff;
+    border: none;
+}
+#text-button{
+    margin-left: 14%;
+}
+
+#creador{
+    margin-left: 30%;
+}
